@@ -1,5 +1,5 @@
 # DMCyT
-Grupo de Clau, Majo y Tincho para DMCyT
+Grupo de Clau, Majo, Rosa y Tincho para DMCyT
 
 Prueba de ReadMe
 
